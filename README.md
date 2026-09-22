@@ -182,7 +182,7 @@ The project explores how documents can be transformed into searchable knowledge 
 `Python` `Streamlit` `RAG` `ChromaDB` `Sentence Transformers` `Embeddings` `AI`
 
 <p>
-  <a href="https://rexy-docmind-rag-project.streamlit.app/">
+  <a href="https://rexy-docmind.streamlit.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Open%20DocMind-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
   </a>
 </p>
